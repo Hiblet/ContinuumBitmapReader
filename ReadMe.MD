@@ -66,9 +66,9 @@ The file will be locked until the image has fully loaded, and then unlocked when
 
 A couple of images like this...
 
-![PacMan](./images/pacman.png)
+![PacMan](./Images/pacman.png?raw=true "PacMan")
 
-![Ghost](./images/ghost.jpg)
+![Ghost](./Images/ghost.jpg?raw=tue "Ghost")
 
 ... will be loaded to this data:
 
@@ -93,9 +93,9 @@ A couple of images like this...
  | pacman.png | 7 | 1 | 255 | 255 | 255 | 0 | 
 
 
-Only first 16 rows shown; Full data below...
+Only first 16 rows shown; Full data example is in the repo, in AlteryxTests/Test05_Example.csv.
 
-(./AlteryxTests/Test05_Example.csv)
+!(./AlteryxTests/Test05_Example.csv)
 
 
 ## Performance
